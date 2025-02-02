@@ -18,3 +18,7 @@ I have heard that alot of technical recruiters not knowing how any of this works
 6. reboot you PC before the end of the day tomarrow.
 
 If it runs sucessfully and your graph does not update first make sure it was pushing with the right account, then toggle off and on Private contributions in the contribution settings above the graph.  You want it to be on but toggling it off than back on will refresh it.
+
+
+## Known Bug
+- The automatic daily system isnt pushing right.  It still commits though so a manual git push every once in a while will resync things
